@@ -1,0 +1,21 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.1/css/bootstrap.min.css');
+html, body {
+  height: 100%;
+}
+
+#main {
+
+    background-color: #3F3B6C;
+}
+
+.bordered {
+    border:1px solid #A3C7D6;
+}
+
+p {
+    color: #A3C7D6;
+}
+
+li {
+    color: #A3C7D6;
+}

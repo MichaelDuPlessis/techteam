@@ -1,8 +1,8 @@
-# techteam
+# Techteam
 The repo containing my Tech Team Technical assessment submission
 
-## usage
-make sure install.sh and server.tar.gz are in the same directory. Run ```bash install.sh <container name>``` to execute the install script.
+## Usage
+Make sure install.sh and server.tar.gz are in the same directory. Run ```bash install.sh <container name>``` to execute the install script.
 
 All other files are helper functions and can be annoyed.
 
